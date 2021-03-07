@@ -13,8 +13,6 @@
 
 -->
 
-Hi!
-
 - :newspaper: You can find my dev site at "https://www.drzymala.dev/"
 - 📫 How to reach me: **jakob.drzymala@gmail.com**
 
