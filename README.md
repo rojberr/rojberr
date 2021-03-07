@@ -3,14 +3,6 @@
 <!--
 **rojberr/rojberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi!
-
-- * :newspaper: You can find my dev site at "https://www.drzymala.dev/"
-- 📫 How to reach me: **jakob.drzymala@gmail.com**
--->
-
-If you want to support me, you can do so through my [GitHub Sponsors](https://github.com/sponsors/rojberr)
-
 - 🔭 I’m currently working on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -18,3 +10,12 @@ If you want to support me, you can do so through my [GitHub Sponsors](https://gi
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+-->
+
+Hi!
+
+- :newspaper: You can find my dev site at "https://www.drzymala.dev/"
+- 📫 How to reach me: **jakob.drzymala@gmail.com**
+
+If you want to support me, you can do so through my [GitHub Sponsors](https://github.com/sponsors/rojberr)
