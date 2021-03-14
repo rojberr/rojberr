@@ -46,6 +46,8 @@
 ### IDEs...
 <p>
   <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
+  <img src='https://img.stackshare.io/service/1449/default_42d52ca5a9402df516280dd9d760af31071d5c91.jpg' width='32' title='Netbeans'>
+  <img src='https://img.stackshare.io/service/1446/8cyY6D_m.png' width='32' title='Eclipse'>
 </p>
 <hr>
 
