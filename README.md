@@ -48,5 +48,5 @@
   <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
 </p>
 <hr>
-<br>
+
 If you want to support me, you can do so through my [GitHub Sponsors](https://github.com/sponsors/rojberr)
