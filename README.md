@@ -17,3 +17,6 @@
 - 📫 How to reach me: **jakob.drzymala@gmail.com**
 
 If you want to support me, you can do so through my [GitHub Sponsors](https://github.com/sponsors/rojberr)
+
+
+![Rojberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojberr&theme=great-gatsby&show_icons=true)
