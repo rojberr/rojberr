@@ -30,6 +30,7 @@
   <img src='https://img.stackshare.io/service/6727/css.png' width='32' title='CSS'>
   <img src='https://img.stackshare.io/service/993/pUBY5pVj.png' width='32' title='Python'>
   <img src='https://img.stackshare.io/service/995/K85ZWV2F.png' width='32' title='Java'>
+ 
 
 </p>
 
@@ -41,6 +42,7 @@
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' width='32' title='Vercel'>
   <img src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' width='32' title='Docker'>
+ 
 </p>
 
 ### IDEs...
@@ -48,6 +50,9 @@
   <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
   <img src='https://img.stackshare.io/service/1449/default_42d52ca5a9402df516280dd9d760af31071d5c91.jpg' width='32' title='Netbeans'>
   <img src='https://img.stackshare.io/service/1446/8cyY6D_m.png' width='32' title='Eclipse'>
+  <img src='https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png' width='32' title='IntelliJ'>
+   <img src='https://img.stackshare.io/service/1447/AyreX9yf.jpeg' width='32' title='AndroidStudio'>
+ 
 </p>
 <hr>
 
