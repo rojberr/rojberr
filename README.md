@@ -57,3 +57,6 @@
 <hr>
 
 If you want to support me, you can do so through my [GitHub Sponsors](https://github.com/sponsors/rojberr)
+
+
+![Rojberr skyline](rojberr-skyline.jpg)
