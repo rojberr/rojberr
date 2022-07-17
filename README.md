@@ -14,7 +14,7 @@
 -->
 
 - :newspaper: You can find my dev site at <https://www.drzymala.dev/>
-- 📫 How to reach me: **jakob.drzymala@gmail.com**
+- 📫 How to reach me: **contact.drzymala@gmail.com**
 <br><br>
 
 <p align="left">
