@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **rojberr/rojberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,19 @@
 - 💬 Ask me about ...
 
 -->
+I'm Jakub and I'm an engineer who loves to code. Since I created my first program, I can't stop thinking about new ideas and how to implement them.  I spend a lot of time learning new skills and actively help other people learn software development through a variety of help groups and through writing own code.
+
+## Website
 
 - :newspaper: You can find my dev site at <https://www.drzymala.dev/>
+
+## Contact
+
 - 📫 How to reach me: **contact.drzymala@gmail.com**
 <br><br>
+
+
+## My current stack
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=rojberr&theme=dark&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojberr&theme=dark&layout=compact" alt="languages" height="165">
