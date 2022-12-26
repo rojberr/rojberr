@@ -22,7 +22,7 @@ metadata:
 spec:
   website:
     - type: Homepage
-      where: [drzymala.dev](https://www.drzymala.dev/)
+      where: drzymala.dev
   favorites:
     moto: 🏍️
     landscape: ⛰️
