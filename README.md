@@ -16,7 +16,18 @@ I'm Jakub and I'm an engineer who loves to code. Since I created my first progra
 
 ```yaml
 apiVersion: v29
-
+kind: Human
+metadata:
+  name: Jakub
+spec:
+  website:
+    - type: Homepage
+      where: [drzymala.dev](https://www.drzymala.dev/)
+  favorites:
+    moto: 🏍️
+    landscape: ⛰️
+    emoji: 🤦
+    element: 💨
 ```
 
 ## Website
