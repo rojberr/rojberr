@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36F729&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **rojberr/rojberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,6 @@
 - 💬 Ask me about ...
 
 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F729&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
 I'm Jakub and I'm an engineer who loves to code. Since I created my first program, I can't stop thinking about new ideas and how to implement them.  I spend a lot of time learning new skills and actively help other people learn software development through a variety of help groups and through writing own code.
 
