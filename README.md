@@ -12,6 +12,9 @@
 - 💬 Ask me about ...
 
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F729&width=435&lines=Hi+there!)](https://git.io/typing-svg)
+
 I'm Jakub and I'm an engineer who loves to code. Since I created my first program, I can't stop thinking about new ideas and how to implement them.  I spend a lot of time learning new skills and actively help other people learn software development through a variety of help groups and through writing own code.
 
 ```yaml
