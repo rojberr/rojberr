@@ -50,7 +50,7 @@ spec:
 <br>
 
 <p align="left">
-[!rojberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojberr)](https://github.com/rojberr)
+![rojberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojberr)](https://github.com/rojberr)
 </p>
 
 <br><hr>
