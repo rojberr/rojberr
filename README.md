@@ -47,6 +47,12 @@ spec:
  <img src="https://github-readme-stats.vercel.app/api?username=rojberr&theme=dark&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojberr&theme=dark&layout=compact" alt="languages" height="165">
 </p>
 
+<br>
+
+<p align="left">
+[![rojberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojberr)](https://github.com/rojberr)
+</p>
+
 <br><hr>
 
 ### Languages that i use...
