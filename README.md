@@ -49,9 +49,12 @@ spec:
 
 <br>
 
-<p align="left">
-![rojberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojberr)](https://github.com/rojberr)
-</p>
+<a href="https://github.com/rojberr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojberr" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <br><hr>
 
