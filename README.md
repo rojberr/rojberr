@@ -44,17 +44,8 @@ spec:
 ## My current stack
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=rojberr&theme=dark&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojberr&theme=dark&layout=compact" alt="languages" height="165">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rojberr&theme=dark&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rojberr&theme=dark&layout=compact" alt="languages" height="165">
 </p>
-
-<br>
-
-<a href="https://github.com/rojberr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojberr" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <br><hr>
 
