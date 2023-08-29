@@ -13,6 +13,8 @@
 
 -->
 
+<img src="https://komarev.com/ghpvc/?username=rojberr&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Rojberr" />
+
 I'm Jakub and I'm an engineer who loves to code. Since I created my first program, I can't stop thinking about new ideas and how to implement them.  I spend a lot of time learning new skills and actively help other people learn software development through a variety of help groups and through writing own code.
 
 ```yaml
