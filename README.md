@@ -48,7 +48,7 @@ spec:
 ### Programming languages that I usually use ... ⚡
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,spring,selenium,py,pytorch,tensorflow,go,django" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,py,go" />
   </a>
 </p>
 
