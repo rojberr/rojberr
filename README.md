@@ -44,29 +44,44 @@ spec:
 <br><br>
 
 ## My current stack
+<p align="center">
 
 ### Programming languages that I usually use ... ⚡
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,spring,selenium,py,pytorch,tensorflow,go,django," />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,spring,selenium,py,pytorch,tensorflow,go,django" />
   </a>
-</p>
 
-### DevOps and Cloud Tools ☁️
+## Frameworks 🏗️
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,gradle,grafana,prometheus,rabbitmq,aws,azure,dynamodb,gcp,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=spring,selenium,pytorch,tensorflow,django" />
   </a>
-</p>
 
-### Tools ⚒️
+### DevOps 👷‍♂️
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,arduino,raspberrypi,androidstudio,cloudflare,figma,githubactions,gitlab,jenkins,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,jenkins,kubernetes,docker,gradle,rabbitmq,postgres,mongodb,githubactions" />
   </a>
+
+### Cloud ☁️
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,dynamodb,gcp" />
+  </a>
+
+### Monitoring 🔎
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,cloudflare" />
+  </a>
+
+### Tools und IDEs ⚒️
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,neovim,arduino,raspberrypi,androidstudio,figma,idea,vscode" />
+  </a>
+  
 </p>
 
 ## Stats 📈
