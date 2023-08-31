@@ -45,42 +45,42 @@ spec:
 
 ## My current stack
 
-<p align="center">### Programming languages that I usually use ... ⚡</p>
+<p align="center"><h3>Programming languages that I usually use ... ⚡</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,py,go" />
   </a>
 </p>
 
-## Frameworks 🏗️
+<p align="center"><h3>Frameworks 🏗️</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,selenium,pytorch,tensorflow,django" />
   </a>
 </p>
 
-### DevOps 👷‍♂️
+<p align="center"><h3>DevOps 👷‍♂️</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,jenkins,kubernetes,docker,gradle,rabbitmq,postgres,mongodb,githubactions" />
   </a>
 </p>
 
-### Cloud ☁️
+<p align="center"><h3>Cloud ☁️</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,dynamodb,gcp" />
   </a>
 </p>
 
-### Monitoring 🔎
+<p align="center"><h3>Monitoring 🔎</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=grafana,prometheus,cloudflare" />
   </a>
 </p>
 
-### Tools und IDEs ⚒️
+<p align="center"><h3>Tools und IDEs ⚒️</h3></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,neovim,arduino,raspberrypi,androidstudio,figma,idea,vscode" />
