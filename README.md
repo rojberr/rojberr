@@ -45,7 +45,7 @@ spec:
 
 ## My current stack
 
-### Programming languages that I usually use ... ⚡
+<p align="center">### Programming languages that I usually use ... ⚡</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,c,cpp,java,py,go" />
