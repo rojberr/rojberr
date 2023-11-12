@@ -17,6 +17,19 @@
 
 I'm Jakub and I'm an engineer who loves to code. Since I created my first program, I can't stop thinking about new ideas and how to implement them.  I spend a lot of time learning new skills and actively help other people learn software development through a variety of help groups and through writing own code.
 
+## My current priorities ☑️
+
+On a global level, these are my **priorities**:
+
+- Being a supportive and present friend and collegue
+- Learn & Teach 👾
+  * Have time to pursue lerning projects and things that interest me 👨‍🏫
+  * Teach other people things I already know and thus improve your own skills 🔨
+  * Start creating online how-tos and tutorial content to reach more ppl interested in same topics as I am 🙋‍♂️💁🏽🙍🏻
+- Stick to my sport and diet plan 🏋️‍♀️🥦 
+
+If my activities or priorities happen to change, I’ll update this page to reflect those changes. Last update was **Sunday, November 12th, 2023**.
+
 ## Who am I :point_down:?
 ```yaml
 apiVersion: v29
