@@ -39,7 +39,7 @@ metadata:
 spec:
   website:
     - type: Homepage
-      where: drzymala.dev
+      where: drzymala.site
   favorites:
     moto: 🏍️
     landscape: ⛰️
@@ -54,7 +54,7 @@ spec:
 
 ## Website
 
-- :newspaper: You can find my dev site at <https://www.drzymala.dev/>
+- :newspaper: You can find my dev site at <https://www.drzymala.site/>
 
 ## Contact
 
