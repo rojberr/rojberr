@@ -58,7 +58,7 @@ spec:
 
 ## Contact
 
-- 📫 How to reach me: **contact.drzymala@gmail.com**
+- 📫 How to reach me: **rojberr-educate@outlook.com**
 <br><br>
 
 Let's get in touch! You can find me on:
