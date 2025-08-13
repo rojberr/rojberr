@@ -54,7 +54,7 @@ spec:
 
 ## Website
 
-- :newspaper: You can find my dev site at <https://www.drzymala.site/>
+- :newspaper: Comming soon
 
 ## Contact
 
